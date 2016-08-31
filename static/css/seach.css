@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+	body{ background:#373737;}
+	/*top*/
+	.top .photo{ text-align:center; margin-top:50px; }
+	.top input{ width:100%; height:45px; padding-left:20px; font-size:0.8em; border: 2px solid #e4eaf9;border-radius: 3px; margin-top:17px;}
+	.top input.input-on-1{border-bottom:1px solid #efefef;border-bottom-right-radius:0px;border-bottom-left-radius: 0px;}
+	.top input.input-on-2{ margin-top:0; border-top:0;border-top-right-radius:0px;border-top-left-radius: 0px;}
+	.top .text{ background:#48A1EE; text-align:center; border-radius:3px; margin:0;line-height:45px;margin-top:20px;}
+	.top .text a{ color:#fff;font-size:1.0em; display:block;}
+	.top .text-1{ background: #337ab7;}
+	.top .tubi{ width:100%; height:700px; position:fixed; top:0; left:0; background:#111111; opacity:0.8; display:none;}
+	.top .middle{ position:fixed; left:50%; top:35%; margin-left:-30px; margin-top:-30px;}
+	.top .first-on-1{ position:relative;}
+	.top .fut{ position:absolute; right:4%; top:53%; font-size:1.0em; line-height:1.0em; display:block; color:red; z-index:1222;}
+	.top .sert{ }
+	.top .fut-1{ position:absolute; right:4%; top:37%; font-size:1.0em; line-height:1.0em; display:block; color:red; z-index:1222;}
+	
+	/*register*/
+	.register .photo{ text-align:center; margin-top:15px; }
+	.register input{ width:100%; height:45px; padding-left:20px; font-size:0.8em; border: 2px solid #e4eaf9;border-radius: 3px; margin-top:12px;}
+	.register input.input-on-3{border-bottom:1px solid #efefef;border-bottom-right-radius:0px;border-bottom-left-radius: 0px;}
+	.register input.input-on-4{ margin-top:0; border-top:0;border-bottom:1px solid #efefef; border-radius:0;}
+	.register input.input-on-5{ margin-top:0; border-top:0;border-bottom:1px solid #efefef; border-radius:0;}
+	.register input.input-on-6{ margin-top:0; border-top:0;border-top-right-radius:0px;border-top-left-radius: 0px;}
+	.register .text{ background:#48A1EE; text-align:center; border-radius:3px; margin:0;line-height:45px;margin-top:20px;}
+	.register .text a{ color:#fff;font-size:1.0em; display:block;}
+	.register .text-1{ background: #337ab7;}
+	.register .tubi{ width:100%; height:700px; position:fixed; top:0; left:0; background:#111111; opacity:0.8; display:none;}
+	.register .middle{ position:fixed; left:50%; top:35%; margin-left:-30px; margin-top:-30px;}
+	.register .first-on-1{ position:relative;}
+	.register .fut{ position:absolute; right:4%; top:45%; font-size:1.0em; line-height:1.0em; display:block; color:red; z-index:1222;}
+	.register .sert{ }
+	.register .fut-1{ position:absolute; right:4%; top:30%; font-size:1.0em; line-height:1.0em; display:block; color:red; z-index:1222;}
+	.register .fut-2{ position:absolute; right:4%; top:30%; font-size:1.0em; line-height:1.0em; display:block; color:red; z-index:1222;}
+	.register .fut-3{ position:absolute; right:4%; top:30%; font-size:1.0em; line-height:1.0em; display:block; color:red; z-index:1222;}
+	
+	
+	
+	
